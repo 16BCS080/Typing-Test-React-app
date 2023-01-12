@@ -1,0 +1,10 @@
+const DEFAULT_WORDS_COUNT =30;
+const DEFAULT_COUNT_DOWN =60;
+const DEFAULT_DIFFICULTY = "normal"; 
+const PACING = "pulse";//"caret"
+export {
+  DEFAULT_COUNT_DOWN,
+  DEFAULT_WORDS_COUNT,
+  DEFAULT_DIFFICULTY, 
+  PACING, 
+};
